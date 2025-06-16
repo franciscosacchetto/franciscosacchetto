@@ -1,7 +1,7 @@
 # 👨‍💻 Francisco Sacchetto
 
-Olá! Eu me chamo Francisco Sacchetto, tenho 19 anos e sou apaixonado por tecnologia.  
-Atualmente, estou estudando Engenharia de Software e desenvolvendo projetos com foco em Front-end e Linguagem C.
+Olá! Eu me chamo Francisco Sacchetto e tenho 18 anos.
+Atualmente, estou estudando Engenharia de Software  na PUC Minas.
 
 ---
 
