@@ -34,7 +34,7 @@ Olá! Eu me chamo Francisco Sacchetto, tenho 18 anos e sou estudante de Engenhar
   <a href="mailto:franciscosacchettoandrade@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank"> <!-- Substitua pelo seu link real -->
+  <a href="https://www.linkedin.com/in/francisco-sacchetto-andrade/" target="_blank"> <!-- Substitua pelo seu link real -->
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
